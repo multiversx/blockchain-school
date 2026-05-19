@@ -23,6 +23,15 @@ paginate: true
 
 ---
 
+# Course Structure
+
+- **Tuesday & Thursday, 19:00 – 20:30 UTC+01:00 (Spain time)**
+- 40 min — first part
+- 10 min — break
+- 40 min — second part
+
+---
+
 # Say Hi!
 
 - Let's know each other!
@@ -67,9 +76,9 @@ You only need to know five things:
 # Discovering the Explorer
 
 - Blocks
+- Transactions
 - Accounts
 - Tokens (fungible, non-fungible, semi-fungible)
-- Transactions
 - Validators
 
 ---
@@ -252,12 +261,14 @@ That is enough to begin working with blockchain systems in practice.
 
 # Homework
 
-Send devnet EGLD to this address: `....`
+Send devnet EGLD to this address: `erd10c03rvj9ptfsqjmek4vtdewhgd3wtvyghzu82qujkqd4x4rnhngssjkyj6`
 
 - Go to [devnet-wallet.multiversx.com](https://devnet-wallet.multiversx.com)
 - Request test EGLD from the faucet
 - Send any amount to the address above
 - Paste your transaction hash in the chat
+
+Materials: [github.com/multiversx/blockchain-school/](github.com/multiversx/blockchain-school/)
 
 ---
 
