@@ -12,13 +12,12 @@ Week 1: Fundamentals
   * Hands-on: explore the Explorer, play with the wallet 
 
 
-* **Lesson 2: Dive Deeper into the MultiversX Tooling**  
-  * A practical guide to essential tools in the MultiversX ecosystem:  
-    * **xPortal**: Managing digital assets and identity.  
-    * **Explorer**: Tracking transactions and contract activity.  
-    * **Wallet**: Understanding key management and interaction.  
-  * Guardians.  
-  * Relayed transactions.
+* **Lesson 2: Smart Contract Introduction & Basic Tooling**  
+  * Start a contract from a template; build and test it locally.  
+  * Investigate the build output: bytecode, ABI, and the assembly.  
+  * Explore the project structure: contract, tests, interaction tools.  
+  * Deploy and interact on Devnet using scripts and the Rust interactor.  
+  * Hands-on: deploy with your own wallet, verify on Explorer.
 
 Week 2: Transactions
 
@@ -31,7 +30,7 @@ Week 2: Transactions
 
 * **Lesson 4: Your First dApp Tutorial (Part 1: Setup and Contract Deployment)**  
   * Setting up the required developer environment (Rust, `multiversx-sc-meta`, Node.js, and `pnpm`).  
-  * Creating a PEM wallet and funding it with test EGLD from the Devnet faucet.  
+  * Creating a PEM wallet and funding it with test EGLD from the Devnet Wallet.  
   * Deploying a sample Rust smart contract, which is compiled to a Web Assembly (WASM) file.
 
 Week 3: Development
@@ -40,6 +39,7 @@ Week 3: Development
   * Following the official MultiversX tutorial to complete building the decentralized application (dApp).  
   * Cloning and configuring the dApp frontend template with the new smart contract address.  
   * Interacting with the live application by logging in with the PEM wallet to deposit and subsequently claim funds after a lock duration ("ping" and "pong").  
+
 * **Lesson 6: Smart Contract Tutorial**  
   * An introduction to writing, compiling, and testing a basic smart contract in Rust for the MultiversX Virtual Machine.
 
