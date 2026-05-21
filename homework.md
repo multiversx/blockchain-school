@@ -24,7 +24,7 @@ The transaction itself is the submission — no need to share anything separatel
 
 ## Assignment 2: Deploy an Adder Contract
 
-Deploy an `adder` contract using **your own wallet** on Devnet and make the stored sum equal the number of letters in your first name.
+Deploy an `adder` contract using **your own wallet** on Devnet and make the stored sum equal the number of letters in your name.
 *(e.g. "Alice" → call `add` with 5, or five calls of `add` with 1)*
 
 **Steps:**

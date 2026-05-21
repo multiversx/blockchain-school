@@ -179,10 +179,6 @@ my-adder/
 
 ---
 
-# Break
-
----
-
 # `src/` — The Contract
 
 ```
@@ -479,7 +475,7 @@ Inspect every transaction in the Devnet Explorer.
 Deploy an `adder` contract using **your own wallet** on Devnet.
 
 **Goal:**  
-Make the stored sum equal the number of letters in your first name.  
+Make the stored sum equal the number of letters in your name.  
 *(e.g. "Alice" → 5 calls of add 1, or one call of add 5)*
 
 **Steps:**
