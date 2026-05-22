@@ -36,6 +36,7 @@ One tool for the full lifecycle.
 
 ```bash
 cargo install multiversx-sc-meta --locked
+sc-meta install all
 ```
 
 Verify it works:
@@ -44,7 +45,8 @@ Verify it works:
 sc-meta --version
 ```
 
-This installs the `sc-meta` binary into `~/.cargo/bin`.
+`cargo install` puts the `sc-meta` binary in `~/.cargo/bin`.  
+`sc-meta install all` installs the additional tools it depends on (e.g. the WASM build target and `wasm-opt`).
 
 ---
 
